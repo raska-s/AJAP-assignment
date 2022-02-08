@@ -1,2 +1,2 @@
 # AJAP-assignment
-Simple linear regression implementation on C
+Simple linear regression implementation on python
